@@ -51,4 +51,4 @@ if st.button("🚀 Summarize"):
         else:
             st.error("Model failed to load. Please refresh the app.")
     else:
-        st.warning("⚠️ Please enter text before clicking Summarize.")
+        st.warning("⚠️ Please enter text before clicking Summarize. ")
